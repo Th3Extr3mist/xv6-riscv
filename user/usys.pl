@@ -36,5 +36,5 @@ entry("getpid");
 entry("sbrk");
 entry("sleep");
 entry("uptime");
-entry("sys_mprotect");
-entry("sys_munprotect");
+entry("mprotect");
+entry("munprotect");

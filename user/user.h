@@ -1,3 +1,5 @@
+#define PGSIZE 4096
+#include "kernel/memlayout.h"
 struct stat;
 
 // system calls
